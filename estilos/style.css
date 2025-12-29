@@ -32,13 +32,12 @@ ul{
     padding: 10px 20px;
     margin:0;
     justify-content: flex-end; /* Alinha à direita */
-        
 }
 
 li>a{
     color: white;
     text-decoration: none;
-    font-family: cursive;
+    font-family: Roboto;
     font-size: 1em;
 }
 
@@ -80,7 +79,7 @@ div#formulario{
     border-color:  rgba(246, 168, 0, 0.998);
     padding: 50px;
     margin-top: 30px;
-    font-family: cursive;
+    font-family: Roboto;
 
     backdrop-filter: blur(5px);                 /* isso  é para dar um efeito de desfoque no fundo */
     -webkit-backdrop-filter: blur(10px);
@@ -108,7 +107,7 @@ input#botao{
     border-color: black;
     color: orange;
     text-shadow: 2px 2px 2px rgba(255, 166, 0, 0.496);
-    font-family: cursive;
+    font-family: Roboto;
     font-weight: bold;
 }
 
@@ -145,7 +144,7 @@ p#link>a:hover{
 footer{
     margin: auto;
     color: rgb(255, 255, 255);
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Roboto;
     font-size: 1.2em;
     font-weight: bold;
 }
